@@ -10,9 +10,6 @@ I am [Vishal Kumar](https://portfolio.akshaysharma.co.in/) , completed my B.Tech
     [Twitter](https://twitter.com/vishal9708) 
     [Facebook](https://www.facebook.com/people/Vishal-Soni/)
     [Instagram](https://www.instagram.com/soni_v_i_s_h_a_l)
-- 😄 Positions - [Ex. GDSC Lead](https://dsc.community.dev/army-institute-of-technology/) and Ex. Secretary at [Open Source Software Club](https://github.com/orgs/aitoss/dashboard) @ AIT
-- ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
-- ⚡ Some Full stack projects build by me to help students in my college , [OSS Wesbite](https://aitoss.club),  [Project Anubhav](https://anubhav.aitoss.club) and [XMEME](https://stupefied-hypatia-a8fb74.netlify.app/) , [Expense Tracker](https://bright-xpensr.netlify.app/). 
 
 
 ### We can have chat at any social platform:
