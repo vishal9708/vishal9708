@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am [Vishal Sharma](https://portfolio.akshaysharma.co.in/) , a BE CSE Student at Army Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
+I am [Vishal Kumar](https://portfolio.akshaysharma.co.in/) , a BE CSE Student at Army Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
 
 - 🔭 I’m currently working at [KFintech](https://kfintech.com) as Software Engineer.
 - 🌱 I am proficient in MERN stack, AWS cloudNative application development.
